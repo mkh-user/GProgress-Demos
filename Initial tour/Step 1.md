@@ -1,4 +1,4 @@
-# Initial Tour (1): 
+# Initial Tour - 1
 ## Progress Management and Multi User Support
 
 As a gamer, a game is essentially enjoyable as long as the player's activities do not disappear after each session, and the player's efforts are not in vain. 
