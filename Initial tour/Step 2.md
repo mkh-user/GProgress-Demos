@@ -1,4 +1,4 @@
-# Initial Tour (2):
+# Initial Tour - 2
 ## Step 2: What capabilities does GProgress have?
 
 ### Have multiple players!
