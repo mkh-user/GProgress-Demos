@@ -110,3 +110,7 @@ This line is executed only once for each device, and in addition, you can check 
 > Here, **`device`** does not mean a PC, laptop or mobile, as each **user account in operating system** has a separate folder for `user://`, consequently, if the program is opened under a different user
 > account (from the user accounts of the operating system), program will not have access to the information of other user accounts, including progress, backups, plugin settings files, and anything similar
 > (if the progress and backups are defined in the `user://` folder).
+
+
+# Previous step: [Installing](https://mkh-user.github.io/GProgress-Demos/Default%20Setup%20Method/Installing)
+# Next step: Setup Users Menu
