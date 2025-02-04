@@ -22,4 +22,5 @@ successful.
 In the editor menu bar in the `Project` section, click `Project Settings…` to open the project settings window. From the top of the settings window, 
 select the `Plugins` tab and check the checkbox next to `GProgress`.
 
-# Next step: Setup and preparation
+# Previous step: -
+# Next step: [Setup and Initialize](https://mkh-user.github.io/GProgress-Demos/Default%20Setup%20Method/Configure%20%26%20Initilize)
