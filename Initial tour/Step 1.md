@@ -1,3 +1,4 @@
+## [Back to home](https://mkh-user.github.io/GProgress-Demos)
 # Initial Tour - 1
 ## Progress Management and Multi User Support
 
@@ -43,5 +44,6 @@ perform these processes, which saves time and significantly improves the quality
 Now, we give you GProgress, a plugin that performs all this process with complete consistency and accuracy without any errors, while you don't need to write hundreds of lines 
 of code to do these tasks!
 
-## Next
-### [Step 2: What capabilities does GProgress have?](https://mkh-user.github.io/GProgress-Demos/Initial%20tour/Step%202)
+|Previous|Next|
+|-|-|
+||[Step 2: What capabilities does GProgress have?](https://mkh-user.github.io/GProgress-Demos/Initial%20tour/Step%202)|
