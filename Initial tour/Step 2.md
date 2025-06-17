@@ -1,3 +1,4 @@
+## [Back to home](https://mkh-user.github.io/GProgress-Demos)
 # Initial Tour - 2
 ## Step 2: What capabilities does GProgress have?
 
@@ -57,6 +58,6 @@ This plugin provides special internal functions for obtaining statistics, compar
 One of the special features of GProgress is the quick save capability, which allows you to use the plugin's features to specify their values without having to manually set 
 many attributes of a saved progress.
 
-## Next
-### Step 3: Special structure of GProgress for data management (Coming Soon)
-
+|Previous|Next|
+|-|-|
+|[Step 1: Progress Management and Multi User Support](https://mkh-user.github.io/GProgress-Demos/Initial%20tour/Step%201)|Step 3: Special structure of GProgress for data management (Coming Soon)|
