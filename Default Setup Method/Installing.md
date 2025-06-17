@@ -1,3 +1,5 @@
+## [Back to home](https://mkh-user.github.io/GProgress-Demos)
+
 To get started with [GProgress](https://mkh-user.github.io/GProgress/), the first step is to install and activate it. 
 In this tutorial, we will show you how to install it for a example project and review the available methods.
 
@@ -13,7 +15,7 @@ If you don’t have a Godot project, create one
 ([how?](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/01.project_setup.html#setting-up-the-project)) and open it 
 ([how?](https://school.gdquest.com/user_guides/opening_a_project_in_godot)). At the top of the editor you will see four options, open 
 `AssetLib` and select the downloaded file from the `Import…` option. Make sure the tree under your pop-up tree is the same and the `Ignore asset 
-root` option is off and click `Install`. If the installation is successful, a pop-up will be displayed containing a message that the operation was 
+root` option is **off** and click `Install`. If the installation is successful, a pop-up will be displayed containing a message that the operation was 
 successful.
 
 ![image](https://github.com/user-attachments/assets/af58097f-4721-4b35-9f1d-4fad09863a6d)
@@ -22,5 +24,6 @@ successful.
 In the editor menu bar in the `Project` section, click `Project Settings…` to open the project settings window. From the top of the settings window, 
 select the `Plugins` tab and check the checkbox next to `GProgress`.
 
-# Previous step: -
-# Next step: [Setup and Initialize](https://mkh-user.github.io/GProgress-Demos/Default%20Setup%20Method/Configure%20%26%20Initilize)
+|Previous|Next|
+|-|-|
+||[Setup and Initialize](https://mkh-user.github.io/GProgress-Demos/Default%20Setup%20Method/Configure%20%26%20Initilize)|
